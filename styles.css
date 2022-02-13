@@ -1,0 +1,46 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #111;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  overflow: hidden;
+  margin: 0;
+}
+
+.container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  max-width: 100%;
+
+}
+
+.square{
+  width: 20px;
+  height: 20px;
+  background-color: #552424;
+  margin: 2px;
+  box-shadow: 0 0 2px #000;
+  transition: 2s ease;
+}
+
+.square:hover{
+  transition-duration: 0s;
+}
+
+.img-class{ 
+  position: absolute;
+  /* display: flex; */
+  margin: 2px;
+  background-image: url('https://torange.biz/photofxnew/158/HD/mirror-macro-blurring-top-bottom-happy-valentines-day-love-158574.jpg'); 
+  background-size: cover;
+  width: 500px;
+  height: 400px;
+}
+/* https://www.nastol.com.ua/large/202004/396116.jpg */
