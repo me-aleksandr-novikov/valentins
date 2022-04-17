@@ -22,8 +22,8 @@ body {
 }
 
 .square{
-  width: 20px;
-  height: 20px;
+  width: 15px;
+  height: 15px;
   background-color: #552424;
   margin: 2px;
   box-shadow: 0 0 2px #000;
@@ -38,7 +38,7 @@ body {
   position: absolute;
   /* display: flex; */
   margin: 2px;
-  background-image: url('https://torange.biz/photofxnew/158/HD/mirror-macro-blurring-top-bottom-happy-valentines-day-love-158574.jpg'); 
+  background-image: url('https://funart.pro/uploads/posts/2021-04/1618593884_37-funart_pro-p-oboi-fon-krasnie-tsveti-fon-42.jpg'); 
   background-size: cover;
   width: 500px;
   height: 400px;
